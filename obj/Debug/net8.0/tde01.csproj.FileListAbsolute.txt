@@ -1,0 +1,14 @@
+C:\Users\55519\Desktop\LAB-PROG\tde01\bin\Debug\net8.0\tde01.exe
+C:\Users\55519\Desktop\LAB-PROG\tde01\bin\Debug\net8.0\tde01.deps.json
+C:\Users\55519\Desktop\LAB-PROG\tde01\bin\Debug\net8.0\tde01.runtimeconfig.json
+C:\Users\55519\Desktop\LAB-PROG\tde01\bin\Debug\net8.0\tde01.dll
+C:\Users\55519\Desktop\LAB-PROG\tde01\bin\Debug\net8.0\tde01.pdb
+C:\Users\55519\Desktop\LAB-PROG\tde01\obj\Debug\net8.0\tde01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\Desktop\LAB-PROG\tde01\obj\Debug\net8.0\tde01.AssemblyInfoInputs.cache
+C:\Users\55519\Desktop\LAB-PROG\tde01\obj\Debug\net8.0\tde01.AssemblyInfo.cs
+C:\Users\55519\Desktop\LAB-PROG\tde01\obj\Debug\net8.0\tde01.csproj.CoreCompileInputs.cache
+C:\Users\55519\Desktop\LAB-PROG\tde01\obj\Debug\net8.0\tde01.dll
+C:\Users\55519\Desktop\LAB-PROG\tde01\obj\Debug\net8.0\refint\tde01.dll
+C:\Users\55519\Desktop\LAB-PROG\tde01\obj\Debug\net8.0\tde01.pdb
+C:\Users\55519\Desktop\LAB-PROG\tde01\obj\Debug\net8.0\tde01.genruntimeconfig.cache
+C:\Users\55519\Desktop\LAB-PROG\tde01\obj\Debug\net8.0\ref\tde01.dll
